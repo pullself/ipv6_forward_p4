@@ -22,7 +22,7 @@ $ ./receive.py
 
 4.In 'h1''s xterm, send a message from the client:
 ```
-$ ./send.py fe80::1234 fe80::5678 "P4 is cool"
+$ ./send.py fe80::1234 fe80::5678 "Hello P4!"
 ```
 The message will be received in h2's windows.
 
