@@ -1,7 +1,6 @@
 ﻿
 1.In your shell, run:
 ```
-$ cd ipv10_p4
 $ ./run.sh
 ```
 
